@@ -15,7 +15,7 @@ I'm traditionally a **Full Stack JavaScript Web Developer** that specializes in 
 
 ### Contact
 - LinkedIn: [linkedin.com/in/alex-avila](https://www.linkedin.com/in/alex-avilx/)
-- Email: [alex.avila.09@outlook.com](alex.avila.09@outlook.com)
+- Email: [alex.avila.09@outlook.com](mailto:alex.avila.09@outlook.com)
 
 <!--
 **alex-avila/alex-avila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
